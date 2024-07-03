@@ -1,0 +1,6 @@
+print("welcom")
+"""
+Game:
+    - welcome
+
+"""

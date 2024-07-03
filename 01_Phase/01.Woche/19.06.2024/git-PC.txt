@@ -1,0 +1,6 @@
+cd amazon-chone
+git init 
+git add code.txt
+git commit -m "info"
+git status
+git log

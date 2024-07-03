@@ -1,0 +1,55 @@
+AI (KI) Development, KI Manager Weiterbildung V3
+PY-01 
+MEHR 
+
+Exercise 1: Variable Assignment
+Assign your name to a variable called name.
+Assign your age to a variable called age.
+Print both variables.
+
+Exercise 2: Simple Arithmetic
+Assign two numbers to variables a and b.
+Calculate and print their sum, difference, product, and quotient.
+
+Exercise 3: String Concatenation
+Assign your first name to a variable first_name.
+Assign your last name to a variable last_name.
+Concatenate and print your full name.
+
+Exercise 4: Updating Variables
+Assign a number to a variable counter.
+Increment the counter by 1 and print the result.
+
+Exercise 5: Swapping Variables
+Assign two numbers to variables x and y.
+Swap their values and print the new values.
+
+Exercise 6: Using Constants
+Assign a value to a variable PI (use 3.14159).
+
+Calculate the circumference of a circle with radius 5 using the formula 
+circumference = 2 * PI * radius and print the result.
+
+Exercise 7: Boolean Variables
+Assign True to a variable is_sunny.
+Assign False to a variable is_raining.
+Print both variables.
+
+Exercise 8: Type Conversion
+Assign a number to a variable num.
+Convert the number to a string and assign it to a variable num_str.
+Print both variables and their types.
+
+Exercise 9: Length of a String
+Assign a string to a variable sentence.
+Calculate and print the length of the string.
+
+Exercise 10: Variable Naming
+Assign values to variables with meaningful names (e.g., height_in_meters,weight_in_kilograms).
+Calculate and print the BMI using the formula 
+BMI = weight_in_kilograms / (height_in_meters ** 2).
+
+Feedback des Trainers ist ausständig
+Ihre Antwort
+ 
+Ändern Sie Ihre Antwort
